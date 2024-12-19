@@ -5,7 +5,7 @@ My name is Timo. I live in germany and i'm learning various things like programm
 ## Projects
 
 - [Multitool Website](https://github.com/Timohub3005/Projektarbeit) - A Webpage for a school project
-- [Vanilla Plus](https://github.com/Timohub3005/Unterichtsstoff) - Some things we do in School (to share with classmates)
+- [Unterichtsstoff](https://github.com/Timohub3005/Unterichtsstoff) - Some things we do in School (to share with classmates)
 
   ## I work with
 
