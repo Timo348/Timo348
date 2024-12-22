@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-My name is Timo. I live in germany and i'm learning various things like programming/microcontrollers
+My name is Timo. I live in germany and i'm learning various things like programming microcontrollers and i'm slowly getting into game modding aswell.
 
 ## Projects
 
