@@ -4,7 +4,7 @@
 ## Projects
 
 - [Website](https://github.com/Timo348/ServerSeite) - My own Website
-  The Website is hosted via an Ubuntu 22.04 Server with an Nginx Webserver (Knuusper.de)
+- - The Website is hosted via an Ubuntu 22.04 Server with an Nginx Webserver (Knuusper.de)
   
 - [Multitool Website](https://github.com/Timohub348/Projektarbeit) - A Webpage for a school project
 - [Unterichtsstoff](https://github.com/Timohub348/Unterichtsstoff) - Old school work like Microcontroller programs and php sites. (mostly to share with classmates)
