@@ -1,9 +1,9 @@
 # Welcome to my Github!
 
-My name is Timo. I live in germany and i'm learning various things like programming microcontrollers and i'm slowly getting into game modding aswell.
 
 ## Projects
 
+- [Website](https://github.com/Timo348/ServerSeite) - My own Website which i host with an Ubuntu 22.04 Server (domain = Knuusper.de)
 - [Multitool Website](https://github.com/Timohub3005/Projektarbeit) - A Webpage for a school project
 - [Unterichtsstoff](https://github.com/Timohub3005/Unterichtsstoff) - Some things we do in School (to share with classmates)
 - [Spotify Data Converter](https://github.com/Timo348/Spotify_Data_Converter) - Mosty Ai Programmed Python Script to receive Song and Artist data in a time interval
