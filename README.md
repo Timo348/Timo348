@@ -4,8 +4,8 @@
 ## Projects
 
 - [Website](https://github.com/Timo348/ServerSeite) - My own Website which i host with an Ubuntu 22.04 Server (domain = Knuusper.de)
-- [Multitool Website](https://github.com/Timohub3005/Projektarbeit) - A Webpage for a school project
-- [Unterichtsstoff](https://github.com/Timohub3005/Unterichtsstoff) - Some things we do in School (to share with classmates)
+- [Multitool Website](https://github.com/Timohub348/Projektarbeit) - A Webpage for a school project
+- [Unterichtsstoff](https://github.com/Timohub348/Unterichtsstoff) - Old school work like Microcontroller programs and php sites. (mostly to share with classmates)
 - [Spotify Data Converter](https://github.com/Timo348/Spotify_Data_Converter) - Mosty Ai Programmed Python Script to receive Song and Artist data in a time interval
 
 ## Programs i use
